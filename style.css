@@ -1,0 +1,26 @@
+/* .box {
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  text-align: center;
+  line-height: 100px;
+} */
+
+/* .box1 {
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+}
+.box2 {
+  width: 200px;
+  height: 100px;
+  background-color: greenyellow;
+}
+.box3 {
+  width: 100px;
+  height: 200px;
+  background-color: tomato;
+} */
+
+.box{ margin: 20px; width: 100px; height: 100px; }
+.box1{ background: orange; }
